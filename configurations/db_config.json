@@ -1,0 +1,16 @@
+{
+    "MYSQL": {
+      "Description": "Used to keep all the relational data.",
+      "HOST": "127.0.0.1",
+      "PORT": "3306",
+      "USERNAME": "root",
+      "PASSWORD": "password",
+      "DATABASE_NAME": "flask_db"
+    },
+    "MONGO": {
+      "Description": "Used to keep all the custom mapping data, Stats, Unknown data.",
+      "HOST": "location of database",
+      "PORT": "port of database",
+      "DATABASE_NAME": "database-name"
+    }
+  }
